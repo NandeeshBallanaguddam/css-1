@@ -1,0 +1,39 @@
+.body {
+
+
+    
+}
+.h1 {
+    color: red;
+}
+h3 {
+    color: red;
+}
+.Orderedlist {
+    color:brown
+}
+
+span {
+    font-weight: bold;
+    background-color: yellow;
+
+}
+.li{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+p{
+    color: brown;
+}
+a {
+    color: red;
+    text-decoration: none;
+    
+}
+u {
+    font-style: italic;
+}
